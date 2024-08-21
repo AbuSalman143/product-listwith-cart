@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Veggie Delight",
+        "imageSrc": "https://via.placeholder.com/250?text=Veggie+Delight",
+        "price": 150,
+        "category": "veg"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Grill",
+        "imageSrc": "https://via.placeholder.com/250?text=Chicken+Grill",
+        "price": 250,
+        "category": "non-veg"
+    },
+    {
+        "id": 3,
+        "name": "Cheese Pizza",
+        "imageSrc": "https://via.placeholder.com/250?text=Cheese+Pizza",
+        "price": 300,
+        "category": "veg"
+    },
+    {
+        "id": 4,
+        "name": "Steak",
+        "imageSrc": "https://via.placeholder.com/250?text=Steak",
+        "price": 450,
+        "category": "non-veg"
+    },
+    {
+        "id": 5,
+        "name": "Grilled Salmon",
+        "imageSrc": "https://via.placeholder.com/250?text=Grilled+Salmon",
+        "price": 500,
+        "category": "non-veg"
+    },
+    {
+        "id": 6,
+        "name": "Tomato Pasta",
+        "imageSrc": "https://via.placeholder.com/250?text=Tomato+Pasta",
+        "price": 200,
+        "category": "veg"
+    },
+    {
+        "id": 7,
+        "name": "Vegan Salad",
+        "imageSrc": "https://via.placeholder.com/250?text=Vegan+Salad",
+        "price": 180,
+        "category": "veg"
+    },
+    {
+        "id": 8,
+        "name": "Fried Chicken",
+        "imageSrc": "https://via.placeholder.com/250?text=Fried+Chicken",
+        "price": 350,
+        "category": "non-veg"
+    },
+    {
+        "id": 9,
+        "name": "Mushroom Risotto",
+        "imageSrc": "https://via.placeholder.com/250?text=Mushroom+Risotto",
+        "price": 400,
+        "category": "veg"
+    },
+    {
+        "id": 10,
+        "name": "Burger",
+        "imageSrc": "https://via.placeholder.com/250?text=Burger",
+        "price": 220,
+        "category": "non-veg"
+    },
+    {
+        "id": 11,
+        "name": "Paneer Tikka",
+        "imageSrc": "https://via.placeholder.com/250?text=Paneer+Tikka",
+        "price": 280,
+        "category": "veg"
+    },
+    {
+        "id": 12,
+        "name": "BBQ Ribs",
+        "imageSrc": "https://via.placeholder.com/250?text=BBQ+Ribs",
+        "price": 550,
+        "category": "non-veg"
+    },
+    {
+        "id": 13,
+        "name": "Caesar Salad",
+        "imageSrc": "https://via.placeholder.com/250?text=Caesar+Salad",
+        "price": 170,
+        "category": "veg"
+    },
+    {
+        "id": 14,
+        "name": "Fish Tacos",
+        "imageSrc": "https://via.placeholder.com/250?text=Fish+Tacos",
+        "price": 320,
+        "category": "non-veg"
+    },
+    {
+        "id": 15,
+        "name": "Chocolate Cake",
+        "imageSrc": "https://via.placeholder.com/250?text=Chocolate+Cake",
+        "price": 600,
+        "category": "veg"
+    },
+    {
+        "id": 16,
+        "name": "Spaghetti Bolognese",
+        "imageSrc": "https://via.placeholder.com/250?text=Spaghetti+Bolognese",
+        "price": 350,
+        "category": "non-veg"
+    },
+    {
+        "id": 17,
+        "name": "Tandoori Chicken",
+        "imageSrc": "https://via.placeholder.com/250?text=Tandoori+Chicken",
+        "price": 420,
+        "category": "non-veg"
+    },
+    {
+        "id": 18,
+        "name": "Paneer Butter Masala",
+        "imageSrc": "https://via.placeholder.com/250?text=Paneer+Butter+Masala",
+        "price": 300,
+        "category": "veg"
+    },
+    {
+        "id": 19,
+        "name": "Butter Naan",
+        "imageSrc": "https://via.placeholder.com/250?text=Butter+Naan",
+        "price": 50,
+        "category": "veg"
+    },
+    {
+        "id": 20,
+        "name": "Prawn Curry",
+        "imageSrc": "https://via.placeholder.com/250?text=Prawn+Curry",
+        "price": 480,
+        "category": "non-veg"
+    }
+]
